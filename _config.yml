@@ -2,7 +2,7 @@ title:            "沈迦勒的速记本"
 description:      "沈迦勒,博客"
 url:              "jerry9032.github.io"
 signoff:          "沈迦勒"
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+disqus_shortname: "jerry-manuscript"
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 

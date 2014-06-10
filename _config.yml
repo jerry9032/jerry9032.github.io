@@ -1,19 +1,19 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
-url:              jerry9032.github.io
-signoff:          Jiale Shen
+title:            "沈迦勒的速记本"
+description:      "沈迦勒,博客"
+url:              "jerry9032.github.io"
+signoff:          "沈迦勒"
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         Index
+  - name:         首页
     url:          /
-  - name:         Archive
+  - name:         存档
     url:          /archive
-  - name:         Tags
+  - name:         标签
     url:          /tags
-  - name:         About
+  - name:         关于
     url:          /about
   - name:         GitHub
     url:          http://github.com/jerry9032

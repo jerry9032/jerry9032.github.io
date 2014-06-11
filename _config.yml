@@ -15,9 +15,6 @@ links:
     url:          /tags.html
   - name:         关于
     url:          /about.html
-  - name:         GitHub
-    url:          http://github.com/jerry9032
-    external:     true
 highlighter:      true
 permalink:        /:year/:month/:day/:title.html
 markdown:         redcarpet

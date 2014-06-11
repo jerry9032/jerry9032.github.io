@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 帕格尼尼《降 E 大调第一小提琴协奏曲》
-date: 2014-06-10 23:25:18 +0800
+date: 2014-06-10 23:25:18
+category: music
 disqus: y
 ---
 

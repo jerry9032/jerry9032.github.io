@@ -4,17 +4,17 @@
     <title>存档 - {{ site.title }}</title>
     {% include head.html %}
   </head>
-  <body>
+  <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
     {% include header.html %}
-    <div id='container'>
+    <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
       {% include links.html %}
-      <div class="content">
+      <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
         <section class="post archive">
           <div>
             {{ content }}
           </div>
         </section>
-      </div>
+      <//main>
     </div>
     {% include footer.html %}
   </body>

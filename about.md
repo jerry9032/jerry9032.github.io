@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About
+title: 关于
 ---
 
 百度攻城狮，科技控，新出 app 体验爱好者。

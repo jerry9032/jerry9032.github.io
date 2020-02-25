@@ -1,7 +1,9 @@
 ---
 layout: archive
 ---
-<h1>Category</h1>
+<div class="mb4">
+  <h1 class="ttu f3 mt0 lh-title cb mb2">分类</h1>
+</div>
 {% for category in site.categories %}
 {% assign cat_name = category | first %}
 {% assign post_list = category | last %}
@@ -9,7 +11,7 @@ layout: archive
 <ul>
   {% for post in post_list %}
   <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}" class="db pv1 link blue hover-mid-gray">{{ post.title }}</a>
   </li>
   {% endfor %}
 </ul>

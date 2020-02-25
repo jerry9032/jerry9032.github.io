@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 拉赫玛尼诺夫《第二钢琴协奏曲》
 date: 2014-06-11 17:34:29
 category: 我心中的交响乐
@@ -15,7 +14,7 @@ disqus: y
 为了营造浪漫气氛，准备放点音乐。只见他的手在一排排黑胶唱片上游走，最后竟然又挑到了拉二钢协。
 这个场景使人捶桌大笑，赞叹导演用意之妙：其实这一切，可能又是一次他的 YY。
 
-其实曲子用在电影里就被赋予了新的含义，而曲子本身，却没有这么令人忍俊不禁的意淫出轨情节。
+其实曲子用在电影里就被赋予了新的含义，而曲子本身，却没有这么令人忍俊不禁的 YY 出轨情节。
 这首钢琴协奏曲为 C 小调，OP.18，作于 1900-1901 年，1901 年由拉赫玛尼诺夫自己主奏钢琴首演。
 
 1897 年前后，[外界屡次的打击](http://blog.sina.com.cn/s/blog_4ac53c560100x18f.html)
@@ -27,9 +26,7 @@ disqus: y
 
 ### 乐曲欣赏
 
-<embed src="http://www.tudou.com/v/nOx3sqlBtts/&bid=05&resourceId=0_05_05_99/v.swf"
-type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"
-wmode="opaque" width="480" height="400"></embed>
+<http://video.tudou.com/v/XMTY4ODA3MjY3Ng==.html>
 
 第一乐章中板，C 小调，2/2 拍子，奏鸣曲形式。曲子一开始的主奏就有一阵忧伤、灰暗的气质扑面而来。
 开门见山，给人留下极深的印象。之后，出现管弦乐的充满力量而富有无限张力的 C 小调第一主题。

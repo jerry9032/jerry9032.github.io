@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 帕格尼尼《降 E 大调第一小提琴协奏曲》
 date: 2014-06-10 23:25:18
 category: 我心中的交响乐
@@ -34,9 +33,8 @@ disqus: y
 
 ### 乐曲赏析
 
-<embed src="http://www.tudou.com/v/FoI_uCeOJtU/&bid=05&resourceId=0_05_05_99/v.swf"
-type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"
-wmode="opaque" width="480" height="400"></embed>
+<http://video.tudou.com/v/XNjEzNjYxNjMy.html>
+
 
 第一乐章，庄严的快板（约 21 分钟），D 大调，4/4 拍子，奏鸣曲式。音乐华丽而富于变化，使听者没有丝毫倦怠之感。
 管弦乐序奏之后，主奏小提琴立即展现出轻快、活泼的主题。此后小提琴的各种技巧发挥得淋漓尽致，把听众引入浪漫而充满梦幻的境界。

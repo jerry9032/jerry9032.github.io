@@ -32,3 +32,31 @@
   padding-left: 3.8rem;
 }
 /* end Markdown styles */
+
+/* content in post */
+table {
+  font-size: .875rem;
+  width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+}
+
+table thead th {
+    vertical-align: bottom;
+    border-top: 1px solid #dee2e6;
+    border-bottom: 2px solid #dee2e6;
+    padding: .375rem;
+}
+
+table td, table th {
+    padding: .375rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+p img {
+  margin: 0 auto;
+  display: block;
+  border-radius: 10px;
+}
+/* end content in post */

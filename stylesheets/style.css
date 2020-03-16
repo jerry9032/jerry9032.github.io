@@ -33,6 +33,31 @@
 }
 /* end Markdown styles */
 
+/* content in mainpage */
+div.tag {
+  display: inline-block;
+  padding: 0.125rem 0.5rem;
+  border-radius: 5px;
+  margin-right: 0.25rem;
+  font-size: 0.75rem;
+}
+
+div.repost {
+  background: #eaf9e3;
+  color: #74cf59;
+}
+
+div.translate {
+  background: #e8f2fc;
+  color: #7db2ed;
+}
+
+div.original {
+  color: #ca0c16;
+  background: #f9ecec;
+}
+/* end */
+
 /* content in post */
 table {
   font-size: .875rem;
@@ -57,6 +82,7 @@ table td, table th {
 p img {
   margin: 0 auto;
   display: block;
-  border-radius: 10px;
+  border: 1px solid #eee;
+  border-radius: .25rem;
 }
 /* end content in post */
